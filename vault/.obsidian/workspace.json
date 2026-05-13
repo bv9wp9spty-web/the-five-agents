@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "0140eb8083a5889d",
+    "type": "split",
+    "children": [
+      {
+        "id": "65e2a4900df2fd23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4b567b20d79f366",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe6535de2f2ea8f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d450e665ece12700",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a70140e9e8aad2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e62e6862ac064776",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4f57be44f537bfa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aef53f301585abf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "43acb68ca1b3fb26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19c23fb2a2c19340",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cd09563b1ea81712",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9b1fd063afb164bf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e5edac1e1295f65",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "89116b57191f5331",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d4b567b20d79f366",
+  "lastOpenFiles": [
+    "50 - ידע/Obsidian/workspace.json - Obsidian.md",
+    "50 - ידע/Obsidian/graph.json - Obsidian.md",
+    "50 - ידע/Obsidian/core-plugins.json - Obsidian.md",
+    "50 - ידע/Obsidian/appearance.json - Obsidian.md",
+    "50 - ידע/Obsidian/app.json - Obsidian.md",
+    "50 - ידע/Obsidian/MOC - Obsidian.md",
+    "50 - ידע/Obsidian",
+    "50 - ידע/Superpowers/writing-skills.md",
+    "50 - ידע/Superpowers/writing-plans.md",
+    "50 - ידע/Superpowers/verification-before-completion.md",
+    "50 - ידע/Superpowers/using-superpowers.md",
+    "50 - ידע/Superpowers/using-git-worktrees.md",
+    "50 - ידע/Superpowers/test-driven-development.md",
+    "50 - ידע/Superpowers/systematic-debugging.md",
+    "50 - ידע/Superpowers/subagent-driven-development.md",
+    "50 - ידע/Superpowers/requesting-code-review.md",
+    "50 - ידע/Superpowers/receiving-code-review.md",
+    "50 - ידע/Superpowers/finishing-a-development-branch.md",
+    "50 - ידע/Superpowers/executing-plans.md",
+    "50 - ידע/Superpowers/dispatching-parallel-agents.md",
+    "50 - ידע/Superpowers/brainstorming.md",
+    "50 - ידע/Superpowers/MOC - Superpowers.md",
+    "50 - ידע/Superpowers",
+    "50 - ידע",
+    "40 - סוכנים/חן.md",
+    "40 - סוכנים/יובל.md",
+    "40 - סוכנים/יעל.md",
+    "40 - סוכנים/ראובן.md",
+    "40 - סוכנים/MOC - הצוות.md",
+    "40 - סוכנים",
+    "30 - פרויקטים/The Five Agents/תקיות",
+    "30 - פרויקטים/The Five Agents/קבצים",
+    "30 - פרויקטים/The Five Agents",
+    "30 - פרויקטים",
+    "00 - מערכת",
+    "Vault README.md.tmp.27716.d255ceeb3b94"
+  ]
+}
