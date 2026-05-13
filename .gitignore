@@ -1,0 +1,15 @@
+# סודות וקבצי סביבה
+.env
+.env.local
+.env.*.local
+
+# קבצי מערכת
+.DS_Store
+Thumbs.db
+
+# קבצי IDE
+.vscode/
+.idea/
+
+# לוגים
+*.log
